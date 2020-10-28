@@ -1,1 +1,38 @@
-{"name":"theme-barretgreen","displayName":"%displayName%","description":"%description%","version":"1.0.0","publisher":"vscode","license":"MIT","engines":{"vscode":"*"},"contributes":{"themes":[{"label":"Barret Green","uiTheme":"vs","path":"./themes/barretgreen-color-theme.json"}]}}
+{
+    "name": "theme-barretgreen",
+    "displayName": "Barret Green",
+    "description": "Barret Green theme with a green background for Visual Studio Code.",
+    "version": "1.0.0",
+    "publisher": "barretren",
+    "license": "MIT",
+    "engines": {
+        "vscode": "*"
+    },
+    "author": {
+        "name": "Barret Ren",
+        "email": "barret.ren@outlook.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BarretRen/VsCodeBarretGreen.git"
+    },
+    "homepage": "https://github.com/BarretRen/VsCodeBarretGreen/main/README.md",
+    "keywords": [
+        "theme",
+        "beautiful",
+        "green"
+    ],
+    "icon": "images/green-icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Barret Green",
+                "uiTheme": "vs",
+                "path": "./themes/barretgreen-color-theme.json"
+            }
+        ]
+    }
+}
