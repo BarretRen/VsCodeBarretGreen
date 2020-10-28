@@ -2,7 +2,7 @@
     "name": "theme-barretgreen",
     "displayName": "Barret Green",
     "description": "Barret Green theme with a green background for Visual Studio Code.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "barretren",
     "license": "MIT",
     "engines": {
