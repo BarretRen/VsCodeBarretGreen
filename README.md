@@ -10,8 +10,8 @@ Barret Green theme with a green background for Visual Studio Code. It is created
 
 ## Screenshot
 
-![alt text](./images/screen1.png)
-![alt text](./images/screen2.png)
+![alt text](https://github.com/BarretRen/VsCodeBarretGreen/tree/main/images/screen1.png)
+![alt text](https://github.com/BarretRen/VsCodeBarretGreen/tree/main/images/screen2.png)
 ## Install
 
 press ctl/command + shift + p to launch the command palette then run
