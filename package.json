@@ -1,0 +1,1 @@
+{"name":"theme-barretgreen","displayName":"%displayName%","description":"%description%","version":"1.0.0","publisher":"vscode","license":"MIT","engines":{"vscode":"*"},"contributes":{"themes":[{"label":"Barret Green","uiTheme":"vs","path":"./themes/barretgreen-color-theme.json"}]}}
